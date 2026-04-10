@@ -1,7 +1,5 @@
 
-```diff
-  
-  #  DataNova
+ #  DataNova
 ! Most people don’t struggle with data… they struggle with understanding it.
 # Transform CSV → Insights → Predictions 
 ```
