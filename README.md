@@ -81,3 +81,68 @@ DataNova helps you:
 | Code Quality    |       ESLint          |
 
 ---
+
+# 🧠 Core Features
+
+| Feature             |         Description                   |
+|---------------------|---------------------------------------|
+|  CSV Upload         | Import any dataset instantly          |
+|  Auto Analysis      | Detects patterns, stats, correlations |
+|  Data Visualization | Interactive charts powered by Plotly  |
+| Prediction Engine   | ML model for forecasting results      |
+|  Real-time UI       | Fast and responsive interface         |
+
+---
+
+# ⚙️ System Workflow
+
+```mermaid id="flow1"
+graph TD;
+A[📂 Upload CSV] --> B[🧠 Data Processing];
+B --> C[📊 Visualization Engine];
+C --> D[🤖 ML Prediction Model];
+D --> E[📈 Insight Generation];
+E --> F[🎯 User Decision];
+```
+---
+ ```
+src/
+│
+├── components/     # UI components
+├── pages/          # App pages
+├── hooks/          # Custom React hooks
+├── lib/            # Utilities
+├── test/           # Unit tests
+│
+├── App.tsx
+├── main.tsx
+└── index.css
+```
+---
+```
+# Deployment 
+
+### install dependencies
+npm install
+
+### run development server
+npm run dev
+
+### build production version
+npm run build
+
+### preview build
+npm run preview
+```
+##  Vision Statement
+
+> DataNova aims to evolve from a data tool  
+> into a **self-aware intelligence ecosystem for decision-making**.
+
+---
+
+##  Final Thought
+
+```diff
+- Today: humans interpret data
++ Future: data interprets itself
