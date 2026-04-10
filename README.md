@@ -1,15 +1,6 @@
-
- #  DataNova
+#  DataNova
 ! Most people don’t struggle with data… they struggle with understanding it.
-# Transform CSV → Insights → Predictions 
-```
-```md id="badges1"
-![Data](https://img.shields.io/badge/Data-Science-blue)
-![AI](https://img.shields.io/badge/AI-Machine%20Learning-purple)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-![Frontend](https://img.shields.io/badge/React-TypeScript-61DAFB)
-![Backend](https://img.shields.io/badge/API-FastAPI-009688)
-```
+
 # 🧠 The Problem
 
 Today, data is everywhere.
